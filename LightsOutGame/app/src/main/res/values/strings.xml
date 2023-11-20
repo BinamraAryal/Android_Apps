@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lights Out</string>
+    <string name="new_game">New Game</string>
+    <string name="colors">Colors</string>
+    <string name="help">Help</string>
+    <string name="congrats">Congratulations!</string>
+    <string name="cheated">Shortcuts are good sometimes.</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="help_instructions">Turn off all the lights to win!</string>
+    <string name="light_bulb">Light bulb</string>
+    <string name="hint">Solve the riddle below to find a shortcut</string>
+    <string name="hint_riddle">"In darkness, I'm a beacon, a luminescent sight,
+Surrounded by companions, in a grid so tight.
+Amidst their glow, a hidden power resides,
+Hold me longer, and victory abides.
+Not a flicker or a spark, but a gentle, lasting hue,
+The answer lies within, can you unlock it, too?"</string>
+    <string name="color_button">Change Color</string>
+    <string name="choose_color">Choose a color:</string>
+</resources>
