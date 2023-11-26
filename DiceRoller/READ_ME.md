@@ -7,8 +7,8 @@ This is a simple dice roller game with a user-friendly interface allowing users 
 ## Getting Started
 - ### Clone the repository:
   - git clone https://github.com/your-username/dice-roller.git
-- ### Open the index.html file:
-  - Open the index.html file in your web browser to start the dice roller game.
+- ### Run the app:
+  - Open the project in an android emulator like Android Studio and run the app.
 ## Usage
 - Click the "Roll Dice" button to roll the displayed dice.
 - Use the "Choose Number of Dice" button to change the number of dice displayed on the screen.
